@@ -45,8 +45,7 @@ Fast, lightweight, and fully accessible.
 
 ## Contact
 
-📧 [dr.mahmoudmmansour@gmail.com](mailto:dr.mahmoudmmansour@gmail.com)
-📩 [jocker5me5@gmail.com](mailto:jocker5me5@gmail.com)
+📧 [mahmoud.mansour.ops@gmail.com](mailto:mahmoud.mansour.ops@gmail.com)
 💼 [LinkedIn — Mahmoud Mansour](https://www.linkedin.com/in/mahmoud-mansour-a3a40b197)
 🐙 [GitHub — @Navigator-Lab](https://github.com/Navigator-Lab)
 
